@@ -5,3 +5,21 @@ Intermediate\
 ipch\
 Release\
 Release_3333.zip
+# PCH 预编译头缓存
+*.pch
+
+# VC数据库文件
+*.VC.db
+
+# 自动生成的对象文件
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.log
+
+# 编译中产生的临时文件
+*.tmp
+*.bak
+*.suo
