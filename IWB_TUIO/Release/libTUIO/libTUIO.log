@@ -1,0 +1,65 @@
+﻿Build started 2024/9/21 18:38:53.
+     1>Project "I:\xuke\IWB_5.5.1.x_For_Windows_多屏修改\IWB_TUIO\libTUIO.vcxproj" on node 5 (Rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Release\libTUIO\libTUIO.tlog\libTUIO.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Release\libTUIO\libTUIO.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I.\TUIO /I.\oscpack /I.. /Zi /nologo /W0 /WX- /O2 /Ob2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D LIB_EXPORT /D OSC_HOST_LITTLE_ENDIAN /D _CRT_SECURE_NO_WARNINGS /D STATIC_LIB /D _USING_V110_SDK71_ /D _MBCS /Gm- /EHsc /MT /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\libTUIO\\" /Fd"Release\libTUIO\libTUIO.pdb" /Gd /TP /analyze- /errorReport:prompt oscpack\ip\win32\NetworkingUtils.cpp oscpack\osc\OscOutboundPacketStream.cpp oscpack\osc\OscPrintReceivedElements.cpp oscpack\osc\OscReceivedElements.cpp oscpack\osc\OscTypes.cpp oscpack\ip\win32\UdpSocket.cpp TUIO\FlashSender.cpp TUIO\OscReceiver.cpp TUIO\OscSender.cpp TUIO\TcpReceiver.cpp TUIO\TcpSender.cpp TUIO\TuioBlob.cpp TUIO\TuioClient.cpp TUIO\TuioContainer.cpp TUIO\TuioCursor.cpp TUIO\TuioDispatcher.cpp TUIO\TuioManager.cpp TUIO\TuioObject.cpp TUIO\TuioPoint.cpp TUIO\TuioServer.cpp TUIO\TuioTime.cpp TUIO\UdpReceiver.cpp TUIO\UdpSender.cpp
+         NetworkingUtils.cpp
+         OscOutboundPacketStream.cpp
+         OscPrintReceivedElements.cpp
+         OscReceivedElements.cpp
+         OscTypes.cpp
+         UdpSocket.cpp
+         FlashSender.cpp
+         OscReceiver.cpp
+         OscSender.cpp
+         TcpReceiver.cpp
+         TcpSender.cpp
+         TuioBlob.cpp
+         TuioClient.cpp
+         TuioContainer.cpp
+         TuioCursor.cpp
+         TuioDispatcher.cpp
+         TuioManager.cpp
+         TuioObject.cpp
+         TuioPoint.cpp
+         TuioServer.cpp
+         Compiling...
+         TuioTime.cpp
+         UdpReceiver.cpp
+         UdpSender.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"Release\libTUIO.lib" /NOLOGO /LTCG Release\libTUIO\NetworkingUtils.obj
+         Release\libTUIO\OscOutboundPacketStream.obj
+         Release\libTUIO\OscPrintReceivedElements.obj
+         Release\libTUIO\OscReceivedElements.obj
+         Release\libTUIO\OscTypes.obj
+         Release\libTUIO\UdpSocket.obj
+         Release\libTUIO\FlashSender.obj
+         Release\libTUIO\OscReceiver.obj
+         Release\libTUIO\OscSender.obj
+         Release\libTUIO\TcpReceiver.obj
+         Release\libTUIO\TcpSender.obj
+         Release\libTUIO\TuioBlob.obj
+         Release\libTUIO\TuioClient.obj
+         Release\libTUIO\TuioContainer.obj
+         Release\libTUIO\TuioCursor.obj
+         Release\libTUIO\TuioDispatcher.obj
+         Release\libTUIO\TuioManager.obj
+         Release\libTUIO\TuioObject.obj
+         Release\libTUIO\TuioPoint.obj
+         Release\libTUIO\TuioServer.obj
+         Release\libTUIO\TuioTime.obj
+         Release\libTUIO\UdpReceiver.obj
+         Release\libTUIO\UdpSender.obj
+         libTUIO.vcxproj -> I:\xuke\IWB_5.5.1.x_For_Windows_多屏修改\IWB_TUIO\Release\libTUIO.lib
+       FinalizeBuildStatus:
+         Deleting file "Release\libTUIO\libTUIO.tlog\unsuccessfulbuild".
+         Touching "Release\libTUIO\libTUIO.tlog\libTUIO.lastbuildstate".
+     1>Done Building Project "I:\xuke\IWB_5.5.1.x_For_Windows_多屏修改\IWB_TUIO\libTUIO.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.72

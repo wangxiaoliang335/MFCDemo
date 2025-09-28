@@ -1,0 +1,17 @@
+﻿Build started 2024/8/21 23:17:55.
+     1>Project "I:\xuke\IWB_5.5.1.x_For_Windows_多屏修改\IWB_TUIO\libTUIO.vcxproj" on node 4 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\libTUIO\libTUIO.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         libTUIO.vcxproj -> I:\xuke\IWB_5.5.1.x_For_Windows_多屏修改\IWB_TUIO\Debug\libTUIO.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\libTUIO\libTUIO.tlog\unsuccessfulbuild".
+         Touching "Debug\libTUIO\libTUIO.tlog\libTUIO.lastbuildstate".
+     1>Done Building Project "I:\xuke\IWB_5.5.1.x_For_Windows_多屏修改\IWB_TUIO\libTUIO.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
