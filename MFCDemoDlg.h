@@ -85,4 +85,5 @@ public:
     afx_msg void OnLbnSelchangeList5();
     afx_msg void OnLbnSelchangeList6();
     afx_msg void OnTimer(UINT_PTR nIDEvent);
+    CListBox m_listbox5;
 };
